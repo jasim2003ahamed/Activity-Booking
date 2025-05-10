@@ -1,7 +1,7 @@
 
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/activity_booking_db
-JWT_SECRET=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjgxZWIyNDVlMjg5MTJjYTFmNTdlMjM1In0sImlhdCI6MTc0Njg0MjMzOSwiZXhwIjoxNzQ2OTI4NzM5fQ.p9RYIWe-7XSKdM35NVTENh0FYbPLKNxoyj5T647Pf6I
+JWT_SECRET="ZjB3F@qE4sT!nY8m#Ue1PkVrA%LcX^Wt"
 
 ---
 
@@ -36,7 +36,7 @@ Make sure MongoDB is running on your system (mongodb://localhost:27017).
 
 Test the API easily using the Postman collection below:
 
-*[View Postman Collection](https://jasimahamed-5823100.postman.co/workspace/Jasim-Ahamed-s-Workspace~9993fd28-905e-41b8-8b40-74d02b6374af/collection/44821174-4380a0a9-395c-4c17-9ab0-77f6045f094d?action=share&creator=44821174)*
+*[View Postman Collection](https://jasimahamed-5823100.postman.co/workspace/Jasim-Ahamed's-Workspace~9993fd28-905e-41b8-8b40-74d02b6374af/collection/44821174-bd9b3248-ae93-44a5-aa01-3769cbdfb8f8?action=share&creator=44821174)*
 
 > Import this link into Postman to try out all endpoints.
 
